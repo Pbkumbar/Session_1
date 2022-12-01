@@ -15,8 +15,8 @@ x^2=4,x*2*3=10
 $$
 
 ## 1.3 About loops
-'''
+```
 for i in range(0,10):
  print("Data Science",i)
-'''
+```
 
